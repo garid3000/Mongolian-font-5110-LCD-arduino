@@ -1,4 +1,4 @@
-# Qubot_robot_LCD_library
+# Mongolian-font-5110-LCD-arduino
 LCD (nokia 3310/5110) дэлгэц-д зориулсан Монгол үсгийн фонт сан.
 Mongolian font library for LCD (nokia 3310/5110).
 
